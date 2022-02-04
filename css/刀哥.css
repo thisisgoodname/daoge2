@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 100%;
+	min-width: 1200px;
+	background-image: url(../img/3BDD962A20513FE3DD0842264D0FAB61.jpg);
+	background-repeat:repeat-x;
+}
+.dao1 {
+	font-size: 80px;
+	color: pink;
+	text-align: center;
+}
