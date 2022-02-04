@@ -40,7 +40,7 @@ body {
 
 #logo1 {
 	position: relative;
-	left:10%;
+	left:7%;
 	width:100%;
 	display: flex;
 }
@@ -58,7 +58,7 @@ body {
 
 #logo1 a {
 	overflow: hidden;
-	padding: 20px 30px;
+	padding: 20px 50px;
 	position: relative;
 	display: inline-block;
 	text-decoration: none;
