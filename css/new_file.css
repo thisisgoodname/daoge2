@@ -52,6 +52,12 @@ body {
 	height: 30px;
 }
 
+.dao img{
+	z-index:0;
+	width: 100%;
+	height: 100%;
+}
+
 #center {
 	height:500px;
 	background-color: rgba(0, 0, 0, 0.5);
@@ -62,12 +68,12 @@ body {
 	align-items: center;
 }
 
-#center img {
+#center section img {
 	transition: all 0.75s;
 	/* -webkit-box-reflect: below 15px linear-gradient(rgba(255, 255, 255, 0), #0005); */
 }
 
-#center img:hover {
+#center section img:hover {
 	transform: scale(1.5);
 	box-shadow: 0 0 10px #55FFFF,
 		0 0 20px #55FFFF,
