@@ -237,7 +237,7 @@ section div:nth-child(26) {
 	align-items: center;
 	flex-direction: column;
 	border-radius: 30px;
-	/* background: linear-gradient(90deg, #00ff00, #55ffff); */
+	background: linear-gradient(90deg, #00ff00, #55ffff);
 }
 
 .front img {
@@ -250,7 +250,6 @@ section div:nth-child(26) {
 }
 
 .back {
-	transform-style: preserve-3d;
 	transform: rotateY(180deg);
 	width: 100%;
 	height: 100%;
